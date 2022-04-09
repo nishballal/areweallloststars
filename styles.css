@@ -245,7 +245,7 @@ html {
   padding-bottom: 10%;
 }
 
-@media (max-width:1028px) {
+/* @media (max-width:1028px) {
   .div2-text {
     font-size: 3rem;
     line-height: 4rem;
@@ -255,7 +255,7 @@ html {
   .div2-text-wish {
     font-size: 3.5rem;
   }
-}
+} */
 
 /* div3 */
 #div3 {
