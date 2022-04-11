@@ -507,8 +507,9 @@ footer {
 /* inner pages */
 .innerpagesHeading {
   font-family: 'Dancing Script', cursive;
-  font-size: 5rem;
-  padding-top: 3%;
+  font-size: 5.5rem;
+  font-weight: bold;
+  padding-top: 4%;
   padding-bottom: 2.5%;
   color: #063970;
 }
